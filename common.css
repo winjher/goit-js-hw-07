@@ -22,16 +22,3 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
-.gallery {
-  display: flex;
-  flex-wrap: wrap;
-  list-style: none;
-  padding: 0;
-  gap: 25px;
-}
-
-.gallery-image {
-  width:500px;
-  height: 300px;
-  border: 2px solid #333;
-}
